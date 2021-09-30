@@ -9,12 +9,11 @@ A simple Quiz App which helps you to enhance your knowleadge about HTML,CSS and 
 
 It is a single page application(SPA) with 10 simple questions. The main objective of this application is to serve as a learning tool and to get into the JavaScript programming language, learn to manage the DOM and its attributes.
 ## Features
-* Budget app shows, the balance, the income and the outcome. 
-* It also has a dashboard where the user can add a new entry (an income or an expense), he can toggle between the income list (that show only all income entries) and the expenses list (that shows only the outcome entries) and all list that shows all the entries. 
-* Auto update Main Balance.
-* The user can edit or delete an entry. 
-* App has a chart, so the user can easily compare the income and outcome.
-* The user's income and expense entry list is stored in the local storage, so when he refreshes the page, or reboot his machine, he can always find his data there.
+* The Quiz app has a question and option. 
+* The User need to choose any one option for all question at the end of quiz the score of user will render. 
+* Play Again Button is provided so user can start quiz once again.
+* The user can play as many times as he/she want. 
+* The color scheme and fonts are readable and user friendly.
 ## Requirements
 1. HTML
 2. CSS
